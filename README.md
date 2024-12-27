@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Usman Khalid.</h1>
 <h3 align="center">A passionate Software Engineer from Rawalpindi, Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajputusman&label=Profile%20views&color=0e75b6&style=flat" alt="rajputusman" /> </p>
-
 - 🔭 I’m currently working at **TeReSol Pvt. Ltd.**
 
 - 🌱 I’m currently learning **Next Js**
