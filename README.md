@@ -1,13 +1,3 @@
-<style>
-    a {
-        text-decoration: none;
-    }
-
-    p{
-      margin: 0 10em;
-    }
-</style>
-
 <h1 align="center">Hi 👋, I'm Usman Khalid.</h1>
 <h3 align="center">A Software Engineer from Rawalpindi, Pakistan.</h3>
 
