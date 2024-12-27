@@ -25,7 +25,7 @@ I'm a passionate **Software Engineer** with a love for problem-solving and build
 
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" margin="auto 12em"> 
+<p align="left" style="margin: auto 10em "> 
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
