@@ -27,11 +27,11 @@ I'm a passionate **Software Engineer** with a love for problem-solving and build
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="appwrite" width="40" height="40" />
-    <div width="12" />
+    <div width="12" ></div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-    <div width="12" />
+    <div width="12"></div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    <div width="12" />
+    <div width="12"></div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     <div width="12" />
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
