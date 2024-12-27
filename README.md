@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Usman Khalid.</h1>
-<h3 align="center">A passionate Software Engineer from Rawalpindi, Pakistan.</h3>
+<h3 align="center">A Software Engineer from Rawalpindi, Pakistan.</h3>
+
+I'm a passionate **Software Engineer** with a love for problem-solving and building impactful software. I specialize in web and software development, with a focus on writing clean, scalable, and efficient code. Always learning new technologies and improving my skills.
 
 - 🔭 I’m currently working at **TeReSol Pvt. Ltd.**
 
